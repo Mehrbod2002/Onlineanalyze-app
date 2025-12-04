@@ -1,0 +1,7 @@
+/target/
+/dist/
+/Cargo.lock
+**/target/
+/src-tauri/target/
+/node_modules/
+/public/
